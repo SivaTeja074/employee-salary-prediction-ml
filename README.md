@@ -15,8 +15,7 @@ employee-salary-prediction-ml/
 │   ├── train_model.py                      # Python script to train and export model
 │   ├── app.py                              # Streamlit app for deployment
 ├── assets/
-│   ├── cover.png                           # Project banner
-│   ├── Model_Comparision.png                # Model accuracy bar graph
+│   ├── Model_Comparision.png               # Model accuracy bar graph
 │   ├── Screenshot_1.png                    # App input form UI
 │   ├── Screenshot_2.png                    # App input form bottom
 │   ├── Screenshot_3.png                    # CSV upload for bulk prediction
